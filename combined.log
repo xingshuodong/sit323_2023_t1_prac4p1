@@ -1,0 +1,14 @@
+{"level":"info","message":"Parameters 5 and 10 received.","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 10 received.","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 10 received.","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 10 received.","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 10 received.","service":"calculate-service"}
+{"level":"info","message":"Parameters undefined and undefined received for addition","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 6 and undefined received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 3 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and 3 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and  received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 2 and undefined received for addition","service":"calculate-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculate-service"}
